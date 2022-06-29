@@ -10,3 +10,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+#footer {
+    width: 100%;
+    display: flex !important;
+    color: whitesmoke;
+    justify-content: center !important;
+    padding-bottom: 5rem;
+    margin-top: 3rem;
+}
